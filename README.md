@@ -33,4 +33,4 @@ $ git clone https://github.com/LucasRezendeUnifill/ApiLucasRezende.git
 $ cd repositorio
 $ ./run 
 
-https://www.youtube.com/watch?v=HooPDbC2z34 LINK VIDEO API DEMO
+https://www.youtube.com/watch?v=HooPDbC2z34 
