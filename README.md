@@ -28,9 +28,7 @@ Exclui uma tarefa específica por seu ID.
 ### `GET /`
 Redireciona para `/tasks`.
 
-## Instalação & Uso
+## REPOSITORIO
 $ git clone https://github.com/LucasRezendeUnifill/ApiLucasRezende.git
-$ cd repositorio
-$ ./run 
 
 https://www.youtube.com/watch?v=HooPDbC2z34 
